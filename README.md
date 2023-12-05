@@ -1,12 +1,12 @@
 # CHD_Prediction_health_Project
 
-INTRODUCTION
+INTRODUCTION:
 Coronary Heart Disease (CHD) remains a critical global health concern, responsible for a substantial portion of cardiovascular-related morbidity and mortality. Identifying individuals at risk of developing CHD is paramount for timely intervention and prevention efforts. This project aims to harness the power of data analysis and predictive modeling to better understand the factors associated with Ten-Year CHD risk and to build a reliable predictive model.
 
 Dataset Description
 The dataset under investigation contains information on individuals, including features such as age, education level, gender, smoking status, and various health-related measurements (e.g., cholesterol levels, blood pressure, BMI, and glucose levels). The dataset also includes a crucial target variable, "TenYearCHD," which indicates whether an individual is at risk of developing CHD within the next ten years (1 for at risk, 0 for not at risk).
 
-Objectives
+Objectives:
 The primary objectives of this project are as follows:
 
 Data Exploration: Conduct a thorough exploration of the dataset to understand its structure, identify missing values, and gain insights into the distribution of key variables.
